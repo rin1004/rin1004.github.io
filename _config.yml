@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mainto:rin691004@gmail.com
+      url: mailto:rin691004@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "rin"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/rin1004"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
