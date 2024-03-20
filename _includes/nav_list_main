@@ -34,7 +34,8 @@
                         <li><a href="/categories/android" class="">Project({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-
+            <ul>
+            
         <span class="nav__sub-title">Hardware</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
