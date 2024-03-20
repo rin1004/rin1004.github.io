@@ -3,7 +3,7 @@ title:  "[Flutter] 프로젝트_Healthy Me"
 excerpt: "#DSC KR Solution Challenge 해커톤 "
 
 categories:
-  - flutter
+  - project
 tags:
   - [flutter, dart, 프로젝트, Django]
 
