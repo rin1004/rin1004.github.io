@@ -24,4 +24,4 @@ last_modified_at: 2021-02-08
 
 ## 결과
 
-![Untitled](https://github.com/Healthy-Me)
+![깃허브](https://github.com/Healthy-Me)
