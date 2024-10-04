@@ -15,10 +15,12 @@ last_modified_at: 2021-02-08
 ---
   
 ### 📜Healthy Me란
+-----
 같은 질병을 가진 사람들의 정보 공유 커뮤니티입니다.
   
   
 ### 📜구현 기능
+-----
 - 로그인
 - 건강일지 기록 서비스
 - 약 정보 검색 서비스
@@ -33,5 +35,5 @@ last_modified_at: 2021-02-08
   
   
 ### 📜결과
-
+-----
 [👉Healthy Me_Github](https://github.com/Healthy-Me)
