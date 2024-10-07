@@ -16,7 +16,8 @@ last_modified_at: 2024-08-22
 
 ### 📜문제
 -----
-<https://school.programmers.co.kr/learn/courses/30/lessons/293258>  
+><https://school.programmers.co.kr/learn/courses/30/lessons/293258>  
+
 ![image](https://github.com/user-attachments/assets/3404f0ef-2f40-44e4-8e49-90a043013636)
 
 ### 📜정답
